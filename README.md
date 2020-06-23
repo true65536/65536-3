@@ -3,7 +3,7 @@ A fork of [2048](https://github.com/gabrielecirulli/2048) which is a small clone
 
 Unlike 2048, numbers are multiplied together. Have fun!
 
-Made just for fun. [Play it here!](http://matthewbauer.github.io/65536/)
+Yet another 65536 made just for fun. [Play it here!](http://true65536.github.io/65536-3/)
 
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
